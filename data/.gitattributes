@@ -1,0 +1,10 @@
+listings.csv filter=lfs diff=lfs merge=lfs -text
+padelAqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+ESOL.csv filter=lfs diff=lfs merge=lfs -text
+SolChal2-1.csv filter=lfs diff=lfs merge=lfs -text
+SolChal2-2.csv filter=lfs diff=lfs merge=lfs -text
+calendar.csv filter=lfs diff=lfs merge=lfs -text
+SolChal1.csv filter=lfs diff=lfs merge=lfs -text
+augmented_AqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+curated-solubility-dataset.csv filter=lfs diff=lfs merge=lfs -text
+reviews.csv filter=lfs diff=lfs merge=lfs -text
