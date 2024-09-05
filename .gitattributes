@@ -1,0 +1,7 @@
+data/SolChal2-2.csv filter=lfs diff=lfs merge=lfs -text
+data/augmented_AqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+data/data.zip filter=lfs diff=lfs merge=lfs -text
+data/padelAqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+data/ESOL.csv filter=lfs diff=lfs merge=lfs -text
+data/SolChal1.csv filter=lfs diff=lfs merge=lfs -text
+data/SolChal2-1.csv filter=lfs diff=lfs merge=lfs -text
