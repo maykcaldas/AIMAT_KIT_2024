@@ -1,7 +1,11 @@
-data/SolChal2-2.csv filter=lfs diff=lfs merge=lfs -text
-data/augmented_AqSolDB.csv filter=lfs diff=lfs merge=lfs -text
-data/data.zip filter=lfs diff=lfs merge=lfs -text
 data/padelAqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+data/B3DB_classification.tsv filter=lfs diff=lfs merge=lfs -text
+data/SolChal2-1.csv filter=lfs diff=lfs merge=lfs -text
+data/data.zip filter=lfs diff=lfs merge=lfs -text
+data/augmented_AqSolDB.csv filter=lfs diff=lfs merge=lfs -text
+data/calendar_old.csv filter=lfs diff=lfs merge=lfs -text
+data/listings_old.csv filter=lfs diff=lfs merge=lfs -text
+data/reviews_old.csv filter=lfs diff=lfs merge=lfs -text
 data/ESOL.csv filter=lfs diff=lfs merge=lfs -text
 data/SolChal1.csv filter=lfs diff=lfs merge=lfs -text
-data/SolChal2-1.csv filter=lfs diff=lfs merge=lfs -text
+data/SolChal2-2.csv filter=lfs diff=lfs merge=lfs -text
